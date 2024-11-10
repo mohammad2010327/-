@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+    direction: rtl;
+}
+
+.contact-links {
+    margin-top: 50px;
+}
+
+.contact-text, .contact-link {
+    font-size: 24px;
+    margin: 15px;
+    color: #000;
+}
+
+.contact-link {
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.contact-link:hover {
+    color: #0077b5;
+}
